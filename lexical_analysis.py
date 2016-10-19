@@ -42,3 +42,31 @@ def get_lexic_token(chars):
         idx_lexic += 1
 
     return False
+
+
+def isProposi(chars):
+    pass
+
+def isNot(chars):
+    pass
+
+def isAnd(chars):
+    pass
+
+def isOr(chars):
+    pass
+
+def isXor(chars):
+    pass
+
+def isIf(chars):
+    pass
+
+def isThen(chars):
+    pass
+
+def isIff(chars):
+    pass
+
+def isDelimiter(Chars):
+    pass
